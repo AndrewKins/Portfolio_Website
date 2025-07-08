@@ -17,7 +17,7 @@ Header Styling Begins
 
     background: -webkit-linear-gradient(360deg, hsla(97, 97%, 13%, 1) 40%, hsla(0, 0%, 100%, 1) 100%);
 
-    box-shadow: 0 4px px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
     position: relative;
     z-index: 10;
     display:grid;
@@ -214,6 +214,12 @@ Main Styling Begins
     object-fit: cover;
     border-radius: 8px;
     margin-bottom: 15px;
+}
+
+.project-card h3{
+    font-family: "Julius Sans One", sans-serif;
+    font-weight: 800;
+    font-style: normal;
 }
 
 .project-links {
