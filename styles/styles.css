@@ -23,7 +23,7 @@ Header Styling Begins
     display:grid;
     grid-template-columns: auto 1fr;
     align-items: center;
-    padding:20px 40px;
+    padding:10px 30px;
 }
 
 #main-logo a{
@@ -60,7 +60,7 @@ Header Styling Begins
 }
 
 .nav-item{
-    background:hsla(97, 80%, 18%, 1);
+    background:;
     color:white;
     font-family: "Julius Sans One", sans-serif;
     font-weight: 400;
@@ -147,7 +147,7 @@ Main Styling Begins
     background-color: white;
     color: #1A4301;
     display: inline-block;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); */
     padding: 10px 20px;
     border-radius: 5px;
 
@@ -190,7 +190,7 @@ Main Styling Begins
     font-family: "Julius Sans One", sans-serif;
     font-weight: 800;
     font-style: normal;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); */
     
 }
 
@@ -264,7 +264,7 @@ Main Styling Begins
     font-family: "Julius Sans One", sans-serif;
     font-weight: 800;
     font-style: normal;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); */
 }
 
 #contact-content p {
@@ -309,10 +309,10 @@ Main Styling Begins
     
     /* Header adjustments */
     #head {
-        padding: 15px 20px;
+        padding: 10px 10px;
         grid-template-columns: 1fr;
         text-align: center;
-        gap: 20px;
+        gap: 5px;
     }
     
     #main-logo h1 {
