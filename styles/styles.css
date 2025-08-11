@@ -118,7 +118,7 @@ Main Styling Begins
 }
 
 #bio p{
-    font-size: clamp(1rem, 2vw, 1.8rem);
+    font-size: clamp(0.4rem, 2vw, 1.4rem);
     line-height: 1.8;
     color: white;
     font-family: "Julius Sans One", sans-serif;
